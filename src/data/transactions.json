@@ -1,0 +1,104 @@
+[
+  {
+    "id": "t1",
+    "type": "Credit",
+    "amount": 14.06,
+    "name": "Apple",
+    "description": "Card Number Used",
+    "date": "2026-04-02T10:00:00Z",
+    "pending": true,
+    "authorizedUser": "Diana",
+    "iconName": "apple-whole"
+  },
+  {
+    "id": "t2",
+    "type": "Payment",
+    "amount": 174.00,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank National Association",
+    "date": "2026-03-31T09:00:00Z",
+    "pending": false,
+    "iconName": "building-columns"
+  },
+  {
+    "id": "t3",
+    "type": "Credit",
+    "amount": 3.24,
+    "name": "Apple",
+    "description": "Card Number Used",
+    "date": "2026-03-31T15:30:00Z",
+    "pending": false,
+    "authorizedUser": "Diana",
+    "iconName": "apple-whole"
+  },
+  {
+    "id": "t4",
+    "type": "Payment",
+    "amount": 99.71,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank National Association",
+    "date": "2026-03-28T09:00:00Z",
+    "pending": false,
+    "iconName": "building-columns"
+  },
+  {
+    "id": "t5",
+    "type": "Payment",
+    "amount": 73.58,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank National Association",
+    "date": "2026-03-30T09:00:00Z",
+    "pending": false,
+    "iconName": "building-columns"
+  },
+  {
+    "id": "t6",
+    "type": "Credit",
+    "amount": 21.61,
+    "name": "IKEA",
+    "description": "Round Rock, TX",
+    "date": "2022-10-01T14:20:00Z",
+    "pending": false,
+    "iconName": "couch"
+  },
+  {
+    "id": "t7",
+    "type": "Credit",
+    "amount": 73.58,
+    "name": "Target",
+    "description": "Cedar Park, TX",
+    "date": "2022-10-01T15:45:00Z",
+    "pending": false,
+    "iconName": "bullseye"
+  },
+  {
+    "id": "t8",
+    "type": "Credit",
+    "amount": 42.10,
+    "name": "Uber",
+    "description": "Ride to Airport",
+    "date": "2022-09-15T08:00:00Z",
+    "pending": false,
+    "iconName": "car"
+  },
+  {
+    "id": "t9",
+    "type": "Credit",
+    "amount": 150.00,
+    "name": "Grocery Store",
+    "description": "Weekly Groceries",
+    "date": "2022-09-10T11:00:00Z",
+    "pending": false,
+    "iconName": "basket-shopping"
+  },
+  {
+    "id": "t10",
+    "type": "Credit",
+    "amount": 12.50,
+    "name": "Coffee Shop",
+    "description": "Latte & Muffin",
+    "date": "2022-09-08T07:30:00Z",
+    "pending": true,
+    "iconName": "mug-hot"
+  }
+]
