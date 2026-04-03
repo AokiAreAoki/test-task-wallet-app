@@ -4,7 +4,7 @@ A mobile-first wallet application built with React, TypeScript, Vite, and Tailwi
 
 ## Prerequisites
 
-Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+Make sure you have latest [Node.js](https://nodejs.org/) installed on your machine.
 
 ## Getting Started
 
